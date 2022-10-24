@@ -14,7 +14,8 @@
 Здесь представлены слайды для презентаций, которые демонстрировались во время лекций:
 - Lecture 1 (12.09.2022, 17:00): Introduction to CUDA (Part 1) ([запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1662987558703))
 - Lecture 2 (26.09.2022, 17:00): Introduction to CUDA (Part 2) ([запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1664197156887))
-- Lecture 3 (??.10.2022, 17:00): GPU memory ([ссылка на подключение](https://bbb.ssau.ru/b/964-em4-g9g-jiu))
+- Lecture 3 (24.10.2022, 15:15): GPU memory ([ссылка на подключение](https://bbb.ssau.ru/b/964-em4-g9g-jiu))
+- Lecture 4 (7.11.2022, 17:00): GPU memory ([ссылка на подключение](https://bbb.ssau.ru/b/964-em4-g9g-jiu))
 - ...TBD
 
 
