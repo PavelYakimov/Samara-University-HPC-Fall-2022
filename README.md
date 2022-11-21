@@ -15,10 +15,12 @@
 - Lecture 1 (12.09.2022, 17:00): Introduction to CUDA (Part 1) ([слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/files/9951766/en_Introduction.pdf), [запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1662987558703))
 - Lecture 2 (26.09.2022, 17:00): Introduction to CUDA (Part 2) ([запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1664197156887))
 - Lecture 3 (24.10.2022, 15:15): GPU memory ([слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/files/9951687/en_Memory.pdf), [запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1666609796677))
-- Lecture 4 (7.11.2022, 17:00): GPU Libraries ([слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/files/10056576/3_libraries.pdf)
+- Lecture 4 (07.11.2022, 17:00): GPU Libraries ([слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/files/10056576/3_libraries.pdf)
 , [запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1667826043704))
-- Lecture 5 (21.11.2022, 17:00): Thrust ([ссылка на подключение](https://bbb.ssau.ru/b/964-em4-g9g-jiu))
-- ...TBD
+- Lecture 5 (21.11.2022, 17:00): Thrust ([слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/files/10058169/4_thrust.pdf)
+, [запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1669034952591))
+- Lecture 6 (05.12.2022, 17:00): [ссылка на подключение](https://bbb.ssau.ru/b/964-em4-g9g-jiu)
+- Lecture 7 (17.12.2022, 17:00): [ссылка на подключение](https://bbb.ssau.ru/b/964-em4-g9g-jiu)
 
 
 # Лабораторные работы
