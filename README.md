@@ -19,7 +19,8 @@
 , [запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1667826043704))
 - Lecture 5 (21.11.2022, 17:00): Thrust ([слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/files/10058169/4_thrust.pdf)
 , [запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1669034952591))
-- Lecture 6 (05.12.2022, 15:15): [запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1670239428160)
+- Lecture 6 (05.12.2022, 15:15): ([слайды](https://github.com/PavelYakimov/Samara-University-HPC-Fall-2022/files/10257959/5_mpgu_compressed.pdf)
+, [запись](https://bbb.ssau.ru:8443/playback/presentation/2.3/7b855197043755138a8976fc3ec0076688d3e316-1670239428160))
 - Lecture 7 (19.12.2022, 17:00): [ссылка на подключение](https://bbb.ssau.ru/b/964-em4-g9g-jiu)
 
 
